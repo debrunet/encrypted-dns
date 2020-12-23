@@ -11,13 +11,13 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2620:fe::fe:9</string>
 					<string>2620:fe::9</string>
+					<string>2620:fe::fe:9</string>
 					<string>9.9.9.9</string>
 					<string>149.112.112.9</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://dns.quad9.net/dns-query</string>
+				<string>https://dns9.quad9.net/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Quad9 Encrypted DNS over HTTPS</string>
